@@ -48,6 +48,7 @@ The dataset contains historical stock market information, including:
 📁 Project Structure
 
 Demart-Stock-Market-Analysis/
+|
 ├── Demart_stock_analysis.ipynb
 ├── demart_stock_data.csv
 ├── requirements.txt
