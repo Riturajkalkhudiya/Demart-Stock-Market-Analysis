@@ -52,7 +52,7 @@ Demart-Stock-Market-Analysis/
 ├── demart_stock_data.csv
 ├── requirements.txt
 ├── README.md
-└── Images/
+
 
 ---
 
