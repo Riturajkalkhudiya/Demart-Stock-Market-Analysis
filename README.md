@@ -82,7 +82,7 @@ Demart-Stock-Market-Analysis/
 
 📈 Stock Price Trend
 
-![Stock Trend](img_3.png)
+![Stock Trend](img_2.png)
 
 📊 Trading Volume Analysis
 
@@ -90,7 +90,7 @@ Demart-Stock-Market-Analysis/
 
 📉 Market Insights
 
-![Market Insights](img_2.png)
+![Market Insights](img_3.png)
 
 ---
 
